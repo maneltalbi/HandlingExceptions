@@ -12,3 +12,4 @@ C:\Users\DELL\source\repos\HandlingExceptions\HandlingExceptions\obj\Debug\net6.
 C:\Users\DELL\source\repos\HandlingExceptions\HandlingExceptions\obj\Debug\net6.0\ref\HandlingExceptions.dll
 C:\Users\DELL\source\repos\HandlingExceptions\HandlingExceptions\obj\Debug\net6.0\HandlingExceptions.pdb
 C:\Users\DELL\source\repos\HandlingExceptions\HandlingExceptions\obj\Debug\net6.0\HandlingExceptions.genruntimeconfig.cache
+C:\Users\DELL\source\repos\HandlingExceptions\HandlingExceptions\obj\Debug\net6.0\HandlingExceptions.csproj.AssemblyReference.cache
